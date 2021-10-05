@@ -1,4 +1,4 @@
-## Hi, I'm David 👋
+# Hi, I'm David 👋
 
 <div style="margin: 20px 0;">
     <img src="bg.png"/>
@@ -6,7 +6,7 @@
 
 I'm David Carracedo and I'm studying last course of CS. Feel free to take a look to my profile or contact me.
 
-### Abstract
+## My info:
 
 -   🎓 Currently studying Computer Science.
 -   💙 Tech I like: **React, Java, Node.js, Docker, C and MySQL**.
