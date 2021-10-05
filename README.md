@@ -1,7 +1,7 @@
 ## Hi, I'm David 👋
 
 <div style="margin: 20px 0;">
-    <img src="1.png"/>
+    <img src="bg.png"/>
 </div>
 
 I'm David Carracedo and I'm studying last course of CS. Feel free to take a look to my profile or contact me.
