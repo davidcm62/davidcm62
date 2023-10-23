@@ -4,12 +4,11 @@
     <img src="bg.png"/>
 </div>
 
-I'm David Carracedo and I'm studying last course of CS. Feel free to take a look to my profile or contact me.
+I'm David Carracedo and I'm a software engineer. Feel free to take a look to my profile or contact me.
 
 ## My info:
 
--   🎓 Currently studying Computer Science.
--   💙 Tech I like: **React, Java, Node.js, C, MongoDB and MySQL**.
+-   💙 Tech I like: **React, Java, Node.js, TypeScript, C, MongoDB and MySQL**.
 -   🖥️ Interests: **Microservices infraestructure, Big Data and Web development**.
 
 <div align="center" style="margin-top: 50px;">
