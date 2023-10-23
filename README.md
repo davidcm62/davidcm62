@@ -9,8 +9,8 @@ I'm David Carracedo and I'm studying last course of CS. Feel free to take a look
 ## My info:
 
 -   🎓 Currently studying Computer Science.
--   💙 Tech I like: **React, Java, Node.js, Docker, C and MySQL**.
--   🖥️ Interests: **Microservices infraestructure, Deep learning and Web development**.
+-   💙 Tech I like: **React, Java, Node.js, C, MongoDB and MySQL**.
+-   🖥️ Interests: **Microservices infraestructure, Big Data and Web development**.
 
 <div align="center" style="margin-top: 50px;">
     <a href="https://github.com/davidcm62/">
